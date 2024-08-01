@@ -56,16 +56,15 @@
 ###
 
 <div align="left">
-  <a href="sanjay.agamamidi@gmail.com" target="_blank">
+  <a href="mailto:sanjay.agamamidi@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="35" alt="gmail logo"  />
   </a>
+
   <a href="https://www.linkedin.com/in/sanjay-agamamidi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-###
-
-<br clear="both">
+<!--<br clear="both"> -->
 
 <!--<img src="https://raw.githubusercontent.com/Sanjay-2004/Sanjay-2004/output/snake.svg" alt="Snake animation" /> -->
