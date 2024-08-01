@@ -68,4 +68,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sanjay-2004/Sanjay-2004/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/Sanjay-2004/Sanjay-2004/output/snake.svg" alt="Snake animation" /> -->
